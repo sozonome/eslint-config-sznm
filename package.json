@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --config index.js .",
-    "lint:fix": "yarn lint --fix",
+    "lint:fix": "yarn lint --fix && yarn format",
+    "format": "prettier -w",
+    "up-latest": "yarn upgrade-interactive --latest",
+    "release": "standard-version",
+    "push-release": "git push --follow-tags origin main",
     "prepare": "husky install"
   },
   "repository": {
