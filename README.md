@@ -19,20 +19,34 @@ yarn add -D eslint-config-sznm
 ```js
 module.exports = {
   extends: ['eslint-config-sznm/react', 'plugin:@next/next/recommended'],
-}
+};
+```
+
+optional:
+
+```js
+module.exports = {
+  extends: [
+    'eslint-config-sznm/react',
+    'plugin:react/jsx-runtime', // to switch off jsx warning 
+    'plugin:@next/next/recommended',
+    'plugin:prettier/recommended', // to use project's prettier
+  ],
+};
 ```
 
 ### React Projects
 
 ```js
 module.exports = {
-  extends: ['eslint-config-sznm/react']
-}
+  extends: ['eslint-config-sznm/react'],
+};
 ```
 
 ### Non React Projects
+
 ```js
 module.exports = {
-  extends: ['eslint-config-sznm']
-}
+  extends: ['eslint-config-sznm'],
+};
 ```

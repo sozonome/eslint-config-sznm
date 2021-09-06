@@ -1,4 +1,9 @@
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
-  extends: ['./base.js', 'airbnb'],
+  extends: [
+    'eslint:recommended',
+    'airbnb',
+    'airbnb-typescript',
+    'plugin:prettier/recommended',
+  ],
 };
