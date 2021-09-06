@@ -23,6 +23,16 @@
     "url": "https://github.com/sozonome/eslint-config-sznm/issues"
   },
   "homepage": "https://github.com/sozonome/eslint-config-sznm#readme",
+  "keywords": [
+    "eslintconfig",
+    "eslint",
+    "config",
+    "sozonome",
+    "typescript",
+    "react",
+    "javascript",
+    "styleguide"
+  ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.30.0",
     "eslint-config-airbnb-base": "^14.2.1",

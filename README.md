@@ -1,6 +1,6 @@
 # eslint-config-sznm ✨
 
-My personal ESLint rules.
+> [WIP] My personal ESLint rules.
 
 ## Installation
 
