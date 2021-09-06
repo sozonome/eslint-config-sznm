@@ -30,7 +30,6 @@ module.exports = {
     'eslint-config-sznm/react',
     'plugin:react/jsx-runtime', // to switch off jsx warning 
     'plugin:@next/next/recommended',
-    'plugin:prettier/recommended', // to use project's prettier
   ],
 };
 ```
