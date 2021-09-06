@@ -13,16 +13,8 @@
     "push-release": "git push --follow-tags origin main",
     "prepare": "husky install"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sozonome/eslint-config-sznm.git"
-  },
   "author": "sozonome",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sozonome/eslint-config-sznm/issues"
-  },
-  "homepage": "https://github.com/sozonome/eslint-config-sznm#readme",
   "keywords": [
     "eslintconfig",
     "eslint",
