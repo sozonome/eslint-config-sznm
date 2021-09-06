@@ -1,6 +1,14 @@
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
   extends: './base.js',
+  settings: {
+    'import/resolver': {
+      node: {
+        extensions: ['.js', '.jsx', '.ts', '.tsx'],
+        moduleDirectory: ['node_modules', 'src/'],
+      },
+    },
+  },
   rules: {
     'import/order': [
       'warn',
