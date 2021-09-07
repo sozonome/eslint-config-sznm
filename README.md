@@ -1,8 +1,12 @@
 # eslint-config-sznm ✨
 
-> [WIP] My personal ESLint rules.
+ESLint rules I use throughout my personal projects with bundled dependencies.
 
-## Installation
+## ❗ Before Installation
+
+> ⚠️❗ [WIP] still tinkering with the configurations, will be frequently changed / updated in the meantime. Some things might fall down / not work properly. Use at your own risk.
+
+## 🔧 Installation
 
 ```bash
 npm i --save-dev eslint-config-sznm
@@ -12,9 +16,11 @@ npm i --save-dev eslint-config-sznm
 yarn add -D eslint-config-sznm
 ```
 
-## Usage
+## :computer: Usage
 
-### Next.js Projects
+### ⚡ Next.js Projects
+
+make sure `eslint-config-next` is installed (as `devDependencies`)
 
 ```js
 module.exports = {
@@ -28,13 +34,15 @@ optional:
 module.exports = {
   extends: [
     'eslint-config-sznm/react',
-    'plugin:react/jsx-runtime', // to switch off jsx warning 
+    'plugin:react/jsx-runtime', // to switch off jsx (import React) warning
     'plugin:@next/next/recommended',
   ],
 };
 ```
 
-### React Projects
+### ⚛️ React Projects
+
+make sure `eslint-plugin-jsx-a11y` and `eslint-plugin-react` is installed (as `devDependencies`)
 
 ```js
 module.exports = {
@@ -42,10 +50,16 @@ module.exports = {
 };
 ```
 
-### Non React Projects
+### 🟨 Non React Projects
+
+> ❗⚠️ [WIP] still tinkering around here, I made this config with support for Next.js and React as first priority in mind.
 
 ```js
 module.exports = {
   extends: ['eslint-config-sznm'],
 };
 ```
+
+## 📣 Suggestions
+
+feel free to give feedbacks or suggestions or start a discussion in [Github discussions](https://github.com/sozonome/eslint-config-sznm/discussions) of the repo.
