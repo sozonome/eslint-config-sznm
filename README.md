@@ -18,6 +18,9 @@ yarn add -D eslint-config-sznm
 
 ## :computer: Usage
 
+add the extends to your project's eslintrc config
+(`.eslintrc.js` or other extensions whichever you use in your project)
+
 ### ⚡ Next.js Projects
 
 make sure `eslint-config-next` is installed (as `devDependencies`)
