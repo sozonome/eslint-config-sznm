@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.3...v0.1.4) (2021-09-07)
+
+
+### Features
+
+* **react:** add rules ([99ac8ed](https://github.com/sozonome/eslint-config-sznm/commit/99ac8edbf8ab2671a529a43c49c2fb94c7cc69fc))
+
 ### [0.1.3](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.2...v0.1.3) (2021-09-06)
 
 
