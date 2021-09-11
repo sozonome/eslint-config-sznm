@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.6...v0.1.7) (2021-09-11)
+
+
+### Bug Fixes
+
+* add missing react-hooks linting ([272dc32](https://github.com/sozonome/eslint-config-sznm/commit/272dc32ddb7c3ba22343362b42f08829d3a457f1))
+
 ### [0.1.6](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.5...v0.1.6) (2021-09-11)
 
 ### [0.1.5](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.4...v0.1.5) (2021-09-07)
