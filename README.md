@@ -27,7 +27,7 @@ make sure `eslint-config-next` is installed (as `devDependencies`)
 
 ```js
 module.exports = {
-  extends: ['eslint-config-sznm/react', 'plugin:@next/next/recommended'],
+  extends: ['sznm/react', 'plugin:@next/next/recommended'],
 };
 ```
 
@@ -36,7 +36,7 @@ optional:
 ```js
 module.exports = {
   extends: [
-    'eslint-config-sznm/react',
+    'sznm/react',
     'plugin:react/jsx-runtime', // to switch off jsx (import React) warning
     'plugin:@next/next/recommended',
   ],
@@ -49,7 +49,7 @@ make sure `eslint-plugin-jsx-a11y` and `eslint-plugin-react` is installed (as `d
 
 ```js
 module.exports = {
-  extends: ['eslint-config-sznm/react'],
+  extends: ['sznm/react'],
 };
 ```
 
@@ -59,7 +59,7 @@ module.exports = {
 
 ```js
 module.exports = {
-  extends: ['eslint-config-sznm'],
+  extends: ['sznm'],
 };
 ```
 
