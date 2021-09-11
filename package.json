@@ -4,7 +4,6 @@
   "description": "sozonome's ESLint configuration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --config index.js .",
     "lint:fix": "yarn lint --fix && yarn format",
     "format": "prettier -w",
@@ -38,7 +37,8 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.24.2",
-    "eslint-plugin-prettier": "^4.0.0"
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-sonarjs": "^0.10.0"
   },
   "optionalDependencies": {
     "eslint-config-airbnb": "^18.2.1",

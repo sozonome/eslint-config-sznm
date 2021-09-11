@@ -2,9 +2,8 @@
 module.exports = {
   extends: [
     './base.js',
-    './extensions.js',
-    './plugins.js',
-    './rules.js',
-    './import/index.js',
+    'eslint:recommended',
+    'plugin:sonarjs/recommended',
+    'plugin:prettier/recommended',
   ],
 };
