@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.8](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.7...v0.1.8) (2021-10-08)
+
+
+### Features
+
+* add prefer default export override, add nextjs link anchor rules override ([88c4b5d](https://github.com/sozonome/eslint-config-sznm/commit/88c4b5dea0e30318a7a4e80cfb0f80fa9378eb8d))
+
 ### [0.1.7](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.6...v0.1.7) (2021-09-11)
 
 
