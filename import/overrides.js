@@ -4,11 +4,6 @@ module.exports = {
   overrides: [
     {
       files: [
-        '**/utils/**/*',
-        '**/util/**/*',
-        'utils/**/*',
-        'util/**/*',
-
         '**/configs/**/*',
         '**/config/**/*',
         'configs/**/*',
@@ -19,10 +14,25 @@ module.exports = {
         'constants/**/*',
         'constant/**/*',
 
+        '**/models/**/*',
+        '**/model/**/*',
+        'models/**/*',
+        'model/**/*',
+
         '**/services/**/*',
         '**/service/**/*',
         'services/**/*',
         'service/**/*',
+
+        '**/types/**/*',
+        '**/type/**/*',
+        'types/**/*',
+        'type/**/*',
+
+        '**/utils/**/*',
+        '**/util/**/*',
+        'utils/**/*',
+        'util/**/*',
       ],
       rules: {
         'import/prefer-default-export': 'off',
