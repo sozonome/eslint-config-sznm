@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.10](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.9...v0.1.10) (2021-10-16)
+
+
+### Improvements
+
+* **import:** extend prefer default export overrides ([29d317d](https://github.com/sozonome/eslint-config-sznm/commit/29d317d94ac893658224088b323de9974ea71e40))
+
 ### [0.1.9](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.8...v0.1.9) (2021-10-09)
 
 ### [0.1.8](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.7...v0.1.8) (2021-10-08)
