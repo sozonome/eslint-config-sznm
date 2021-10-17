@@ -1,14 +1,18 @@
 const { fileAddresses } = require('../utils/fileAddresses');
 
-const noPreferDefaultExportFiles = [
-  ...fileAddresses('config'),
-  ...fileAddresses('constant'),
-  ...fileAddresses('model'),
-  ...fileAddresses('service'),
-  ...fileAddresses('style'),
-  ...fileAddresses('type'),
-  ...fileAddresses('util'),
+const noPreferDefaultExportScopes = [
+  'config',
+  'constant',
+  'model',
+  'service',
+  'style',
+  'type',
+  'util',
 ];
+
+const noPreferDefaultExportFiles = noPreferDefaultExportScopes
+  .map((scope) => fileAddresses(scope))
+  .flat();
 
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
