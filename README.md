@@ -45,8 +45,6 @@ module.exports = {
 
 ### ⚛️ React Projects
 
-make sure `eslint-plugin-jsx-a11y` and `eslint-plugin-react` is installed (as `devDependencies`)
-
 ```js
 module.exports = {
   extends: ['sznm/react'],
