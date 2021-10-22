@@ -3,6 +3,8 @@ const { fileAddresses } = require('../utils/fileAddresses');
 const noPreferDefaultExportScopes = [
   'config',
   'constant',
+  'helper',
+  'lib',
   'model',
   'service',
   'style',
