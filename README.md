@@ -6,6 +6,8 @@ ESLint rules I use throughout my personal projects with bundled dependencies.
 
 > ⚠️❗ [WIP] still tinkering with the configurations, will be frequently changed / updated in the meantime. Some things might fall down / not work properly. Use at your own risk. I made this config with support for Next.js / React + TypeScript as first priority in mind. There might be some rules that you need to disable if your project is a mixed JS/TS or JS only codebase.
 
+[![eslint-config-sznm](https://socialify.git.ci/sozonome/eslint-config-sznm/image?description=1&descriptionEditable=sozonome%27s%20personal%20ESLint%20configs&font=Inter&logo=https%3A%2F%2Feslint.org%2Fassets%2Fimg%2Ffavicon.512x512.png&owner=1&pattern=Solid&stargazers=1&theme=Dark)](https://npmjs.com/package/eslint-config-sznm)
+
 ## 🔧 Installation
 
 ```bash
