@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.11](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.10...v0.1.11) (2021-11-07)
+
+
+### Improvements
+
+* **import:** add override scope (helper, lib) ([b18aafc](https://github.com/sozonome/eslint-config-sznm/commit/b18aafc8e7eaacb0dbe9cde4de6e48ddcabf5e7e))
+* **import:** refactor override scope definitions ([f915a99](https://github.com/sozonome/eslint-config-sznm/commit/f915a99e16f915787f0e297c7927916680ad47ae))
+
 ### [0.1.10](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.9...v0.1.10) (2021-10-16)
 
 
