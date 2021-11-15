@@ -4,6 +4,7 @@ const noPreferDefaultExportScopes = [
   'config',
   'constant',
   'helper',
+  'hook',
   'lib',
   'model',
   'service',
@@ -16,6 +17,8 @@ const noPreferDefaultExportFiles = noPreferDefaultExportScopes
   .map((scope) => fileAddresses(scope))
   .flat();
 
+const storybookPaths = ['*stories*', '.storybook/**/*'];
+
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
   extends: './base.js',
@@ -24,6 +27,12 @@ module.exports = {
       files: noPreferDefaultExportFiles,
       rules: {
         'import/prefer-default-export': 'off',
+      },
+    },
+    {
+      files: storybookPaths,
+      rules: {
+        'import/no-extraneous-dependencies': 'off',
       },
     },
   ],
