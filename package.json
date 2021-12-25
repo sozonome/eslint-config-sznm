@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sznm",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "sozonome's ESLint configuration",
   "main": "index.js",
   "scripts": {
