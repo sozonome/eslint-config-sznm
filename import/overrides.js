@@ -6,6 +6,7 @@ const noPreferDefaultExportScopes = [
   'helper',
   'hook',
   'lib',
+  'loader',
   'model',
   'service',
   'style',

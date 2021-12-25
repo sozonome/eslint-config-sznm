@@ -4,6 +4,8 @@ const fileAddresses = (scope) => {
     `**/${scope}/**/*`,
     `${scope}s/**/*`,
     `${scope}/**/*`,
+    `*${scope}s*`,
+    `*${scope}*`,
   ];
 };
 
