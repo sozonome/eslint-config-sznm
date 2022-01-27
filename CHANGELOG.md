@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/sozonome/eslint-config-sznm/compare/v0.2.0...v0.2.1) (2022-01-27)
+
+
+### Features
+
+* **rules:** enforce consistent usage of type imports ([5086323](https://github.com/sozonome/eslint-config-sznm/commit/5086323b45930e298a49521372db86a474848627))
+
 ## [0.2.0](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.14...v0.2.0) (2022-01-05)
 
 ### [0.1.14](https://github.com/sozonome/eslint-config-sznm/compare/v0.1.13...v0.1.14) (2021-12-25)
