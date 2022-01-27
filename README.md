@@ -9,11 +9,11 @@ ESLint rules I use throughout my personal projects with bundled dependencies.
 ## 🔧 Installation
 
 ```bash
-npm i --save-dev eslint@^7 eslint-config-sznm
+npm i --save-dev eslint eslint-config-sznm
 
 # or (if using yarn)
 
-yarn add -D eslint@^7 eslint-config-sznm
+yarn add -D eslint eslint-config-sznm
 ```
 
 ## :computer: Usage
@@ -26,6 +26,7 @@ add the extends to your project's eslintrc config
 make sure `eslint-config-next` is installed (as `devDependencies`)
 
 ```js
+/** @type {import('eslint').Linter.Config} */
 module.exports = {
   extends: ['sznm/react', 'plugin:@next/next/recommended'],
 };
@@ -34,6 +35,7 @@ module.exports = {
 optional:
 
 ```js
+/** @type {import('eslint').Linter.Config} */
 module.exports = {
   extends: [
     'sznm/react',
@@ -46,6 +48,7 @@ module.exports = {
 ### ⚛️ React Projects
 
 ```js
+/** @type {import('eslint').Linter.Config} */
 module.exports = {
   extends: ['sznm/react'],
 };
@@ -56,6 +59,7 @@ module.exports = {
 > ❗⚠️ [WIP] still tinkering around here, I made this config with support for Next.js and React + TypeScript as first priority in mind.
 
 ```js
+/** @type {import('eslint').Linter.Config} */
 module.exports = {
   extends: ['sznm'],
 };
