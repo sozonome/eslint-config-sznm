@@ -4,7 +4,9 @@ ESLint rules I use throughout my personal projects with bundled dependencies.
 
 ## ❗ Before Installation
 
-> ⚠️❗ [WIP] still tinkering with the configurations, will be frequently changed / updated in the meantime. Some things might fall down / not work properly. Use at your own risk. I made this config with support for Next.js / React + TypeScript as first priority in mind. There might be some rules that you need to disable if your project is a mixed JS/TS or JS only codebase.
+> ⚠️❗ I made this config with support for Next.js / React + TypeScript as first priority in mind. There might be some rules that you need to disable if your project is a mixed JS/TS or JS only codebase.
+
+[![Verified on Openbase](https://badges.openbase.com/js/verified/eslint-config-sznm.svg?token=WMJtqJWWgtIcQCNFBjYV1N7q5TWlbsTdRv859wcTj6I=)](https://openbase.com/js/eslint-config-sznm?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge) [![Rate this package](https://badges.openbase.com/js/rating/eslint-config-sznm.svg?token=WMJtqJWWgtIcQCNFBjYV1N7q5TWlbsTdRv859wcTj6I=)](https://openbase.com/js/eslint-config-sznm?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 
 ## 🔧 Installation
 
