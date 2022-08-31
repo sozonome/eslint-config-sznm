@@ -63,7 +63,9 @@ module.exports = {
 ```js
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
-  extends: ['sznm'],
+  extends: [
+    'sznm' // or 'sznm/bare'
+  ],
 };
 ```
 
