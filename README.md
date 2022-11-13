@@ -1,10 +1,4 @@
-# eslint-config-sznm ✨
-
-ESLint rules I use throughout my personal projects with bundled dependencies.
-
-## ❗ Before Installation
-
-> ⚠️❗ I made this config with support for Next.js / React + TypeScript as first priority in mind. There might be some rules that you need to disable if your project is a mixed JS/TS or JS only codebase.
+<img src="https://og.sznm.dev/api/generate?heading=eslint-config-sznm%20%E2%9C%A8&text=sozonome%27s%20personal%20eslint%20rules%20with%20bundled%20dependencies.&template=color&center=true&height=320" />
 
 [![Verified on Openbase](https://badges.openbase.com/js/verified/eslint-config-sznm.svg?token=WMJtqJWWgtIcQCNFBjYV1N7q5TWlbsTdRv859wcTj6I=)](https://openbase.com/js/eslint-config-sznm?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge) [![Rate this package](https://badges.openbase.com/js/rating/eslint-config-sznm.svg?token=WMJtqJWWgtIcQCNFBjYV1N7q5TWlbsTdRv859wcTj6I=)](https://openbase.com/js/eslint-config-sznm?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 
