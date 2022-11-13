@@ -9,7 +9,7 @@
     "format": "prettier -w",
     "up": "yarn upgrade-interactive",
     "up-latest": "yarn up --latest",
-    "release": "standard-version",
+    "release": "cross-env HUSKY=0 standard-version",
     "push-release": "git push --follow-tags origin main",
     "prepare": "husky install"
   },
@@ -48,6 +48,7 @@
     "eslint-plugin-sonarjs": "^0.16.0"
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "eslint": "^8.27.0",
     "husky": "^8.0.2",
     "lint-staged": "^13.0.3",
