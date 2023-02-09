@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/sozonome/eslint-config-sznm/compare/v1.0.2...v1.1.0) (2023-02-09)
+
+
+### Features
+
+* setup typescript import resolver ([#14](https://github.com/sozonome/eslint-config-sznm/issues/14)) ([988e3e8](https://github.com/sozonome/eslint-config-sznm/commit/988e3e8056fceb2187318056ca7a0f2cc71a2489))
+
 ### [1.0.2](https://github.com/sozonome/eslint-config-sznm/compare/v1.0.1...v1.0.2) (2022-12-22)
 
 ### [1.0.1](https://github.com/sozonome/eslint-config-sznm/compare/v1.0.0...v1.0.1) (2022-11-13)
