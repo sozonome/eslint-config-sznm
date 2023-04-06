@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/sozonome/eslint-config-sznm/compare/v1.1.0...v1.1.1) (2023-04-06)
+
+
+### Bug Fixes
+
+* **deps:** update all dependencies ([#18](https://github.com/sozonome/eslint-config-sznm/issues/18)) ([e86668b](https://github.com/sozonome/eslint-config-sznm/commit/e86668b04f1c1d27bb5993001805ea6a9ef7cf7a))
+
 ## [1.1.0](https://github.com/sozonome/eslint-config-sznm/compare/v1.0.2...v1.1.0) (2023-02-09)
 
 
