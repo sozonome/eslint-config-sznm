@@ -8,8 +8,10 @@
 npm i --save-dev eslint eslint-config-sznm
 
 # or (if using yarn)
-
 yarn add -D eslint eslint-config-sznm
+
+# or (if using pnpm)
+pnpm i -D eslint eslint-config-sznm
 ```
 
 ## :computer: Usage
