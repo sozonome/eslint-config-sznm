@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0-rc.1](https://github.com/sozonome/eslint-config-sznm/compare/v2.0.0-rc.0...v2.0.0-rc.1) (2023-07-15)
+
+
+### Features
+
+* remove recommended-type-checked, too strict ([285ae4a](https://github.com/sozonome/eslint-config-sznm/commit/285ae4a67ca19c630bc569ca2b7d6e2265db9adf))
+
 ## [2.0.0-rc.0](https://github.com/sozonome/eslint-config-sznm/compare/v1.1.2...v2.0.0-rc.0) (2023-07-15)
 
 
