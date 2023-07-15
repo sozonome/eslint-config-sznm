@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0-rc.0](https://github.com/sozonome/eslint-config-sznm/compare/v1.1.2...v2.0.0-rc.0) (2023-07-15)
+
+
+### Features
+
+* update typescript-eslint and plugin-prettier to latest ([#22](https://github.com/sozonome/eslint-config-sznm/issues/22)) ([410567f](https://github.com/sozonome/eslint-config-sznm/commit/410567fd72329e960fcd3ec50d6c346a7812e47e))
+
 ### [1.1.2](https://github.com/sozonome/eslint-config-sznm/compare/v1.1.1...v1.1.2) (2023-07-15)
 
 ### [1.1.1](https://github.com/sozonome/eslint-config-sznm/compare/v1.1.0...v1.1.1) (2023-04-06)
