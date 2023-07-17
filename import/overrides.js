@@ -12,6 +12,7 @@ const noPreferDefaultExportScopes = [
   'style',
   'type',
   'util',
+  'route',
 ];
 
 const noPreferDefaultExportFiles = noPreferDefaultExportScopes
