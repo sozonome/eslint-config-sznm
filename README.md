@@ -1,5 +1,10 @@
 <img src="https://og.sznm.dev/api/generate?heading=eslint-config-sznm%20%E2%9C%A8&text=sozonome%27s%20personal%20eslint%20rules%20with%20bundled%20dependencies.&template=color&center=true&height=320" />
 
+---
+
+[![npm](https://img.shields.io/npm/v/eslint-config-sznm.svg)](https://www.npmjs.com/package/eslint-config-sznm)
+[![npm](https://img.shields.io/npm/dt/eslint-config-sznm.svg)](https://npm-stat.com/charts.html?package=eslint-config-sznm)
+
 [![Verified on Openbase](https://badges.openbase.com/js/verified/eslint-config-sznm.svg?token=WMJtqJWWgtIcQCNFBjYV1N7q5TWlbsTdRv859wcTj6I=)](https://openbase.com/js/eslint-config-sznm?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge) [![Rate this package](https://badges.openbase.com/js/rating/eslint-config-sznm.svg?token=WMJtqJWWgtIcQCNFBjYV1N7q5TWlbsTdRv859wcTj6I=)](https://openbase.com/js/eslint-config-sznm?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
 
 ## ⚠️ Pre-Requisites
