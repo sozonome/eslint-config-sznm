@@ -1,3 +1,15 @@
+> [!WARNING]  
+> This library is deprecated, as some of the dependencies being used in this library has also been deprecated. It's recommended to switch to alternatives:
+> - https://biomejs.dev
+> - https://https://oxc.rs/docs/guide/usage/linter
+> - https://sznm.dev/notes/eslint-config-sznm
+
+> [!NOTE]  
+> This config library only works for:
+> - Next.js v14 or earlier version
+> - eslint v8 or earlier
+> - projects with @typescript-eslint v7 or earlier
+
 <img src="https://og.sznm.dev/api/generate?heading=eslint-config-sznm%20%E2%9C%A8&text=sozonome%27s%20personal%20eslint%20rules%20with%20bundled%20dependencies.&template=color&center=true&height=320" />
 
 ---
